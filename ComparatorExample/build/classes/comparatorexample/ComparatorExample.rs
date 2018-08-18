@@ -1,0 +1,2 @@
+comparatorexample.MyObject
+comparatorexample.ComparatorExample
